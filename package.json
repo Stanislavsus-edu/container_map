@@ -1,7 +1,6 @@
 {
-  "name": "ajs_5_1",
+  "name": "container_map",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -16,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stanislavsus/ajs_5_1.git"
+    "url": "git+https://github.com/Stanislavsus/container_map.git"
   },
   "author": "Stanislav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Stanislavsus/ajs_5_1/issues"
+    "url": "https://github.com/Stanislavsus/container_map/issues"
   },
-  "homepage": "https://github.com/Stanislavsus/ajs_5_1#readme",
+  "homepage": "https://github.com/Stanislavsus/container_map#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
@@ -38,5 +37,6 @@
   },
   "dependencies": {
     "core-js": "^3.18.0"
-  }
+  },
+  "description": ""
 }
